@@ -11,6 +11,17 @@
 ### <img src="https://media.giphy.com/media/LVrHEIxyJRaq89XlwN/giphy.gif" width="50"> Here are some things about me
 
 
+-  I'm a Full Stack developer who is passionate about Web Development.
 
+-  I'm constantly learning new languages and creating my own personal projects. Also, I really enjoy attending tech related events.
 
+-  I love walking in the forest and watching movies.
+
+-  I’m looking forward to collaborate on any Open Source project.
+
+-  How to reach me: use the badges above 😃
+
+![adamteddychang github stats](https://github-readme-stats.vercel.app/api?username=adamteddychang&show_icons=true)
+
+⭐️ From [adamtedduchang](https://github.com/adamteddychang)
 
