@@ -17,7 +17,7 @@
 
 -  I speak fluent Mandarin(Chinese) and English.
 
-- <img src="https://media.giphy.com/media/quqvgJL5aA4edF2eDX/giphy.gif" width="80"> I have a cat. 
+- <img src="https://media.giphy.com/media/quqvgJL5aA4edF2eDX/giphy.gif" height="40"> I have a cat. 
 
 -  I love walking in the forest and watching movies.
 
