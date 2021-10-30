@@ -27,5 +27,5 @@
 
 ![adamteddychang github stats](https://github-readme-stats.vercel.app/api?username=adamteddychang&show_icons=true)
 
-⭐️ From [adamtedduchang](https://github.com/adamteddychang)
+⭐️ From [adamteddychang](https://github.com/adamteddychang)
 
