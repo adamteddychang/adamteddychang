@@ -8,4 +8,5 @@
 [![Twitter Badge](https://img.shields.io/badge/-@AdamChang3_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/AdamChang3)](https://twitter.com/AdamChang3)
 
 
-![Untitled design](https://user-images.githubusercontent.com/63560332/139526775-c5ba01e1-6210-46af-94a7-83939c8542dc.gif)
+
+<img align='right' src="https://user-images.githubusercontent.com/63560332/139526775-c5ba01e1-6210-46af-94a7-83939c8542dc.gif">
