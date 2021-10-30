@@ -1,5 +1,5 @@
 <h1> Hi, I'm You-Wei (Adam), Chang</h1>
-<img align='right' src="https://user-images.githubusercontent.com/63560332/139526775-c5ba01e1-6210-46af-94a7-83939c8542dc.gif" height="200">
+<img align='right' src="https://user-images.githubusercontent.com/63560332/139526775-c5ba01e1-6210-46af-94a7-83939c8542dc.gif" height="300">
 <h3>Welcome to my world.</h3>
 
 <p><em>Remote Full-stack web developer ready for challenges and adventures!</em></p>
