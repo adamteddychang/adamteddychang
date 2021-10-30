@@ -8,12 +8,16 @@
 [![Twitter Badge](https://img.shields.io/badge/-@AdamChang3_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/AdamChang3)](https://twitter.com/AdamChang3)
 
 
-### <img src="https://media.giphy.com/media/LVrHEIxyJRaq89XlwN/giphy.gif" width="50"> Here are some things about me
+### <img src="https://media.giphy.com/media/LVrHEIxyJRaq89XlwN/giphy.gif" width="80"> Here are some things about me
 
 
 -  I'm a Full Stack developer who is passionate about Web Development.
 
 -  I'm constantly learning new languages and creating my own personal projects. Also, I really enjoy attending tech related events.
+
+-  I speak fluent Mandarin(Chinese) and English.
+
+- <img src="https://media.giphy.com/media/quqvgJL5aA4edF2eDX/giphy.gif" width="80"> I have a cat. 
 
 -  I love walking in the forest and watching movies.
 
