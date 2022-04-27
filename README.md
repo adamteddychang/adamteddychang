@@ -7,6 +7,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Adam%20Chang-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adamteddychang/)](https://www.linkedin.com/in/adamteddychang/)
 [![Twitter Badge](https://img.shields.io/badge/-@AdamChang3_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/AdamChang3)](https://twitter.com/AdamChang3)
 
+[My Portfolio](https://adamteddychang.netlify.app/)
 
 ### <img src="https://media.giphy.com/media/LVrHEIxyJRaq89XlwN/giphy.gif" width="80"> Here are some things about me
 
