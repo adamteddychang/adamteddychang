@@ -1,13 +1,11 @@
 <h1> Hi, I'm You-Wei (Adam), Chang</h1>
 <img align='right' src="https://user-images.githubusercontent.com/63560332/139526775-c5ba01e1-6210-46af-94a7-83939c8542dc.gif" height="300">
 <h3>Welcome to my world!</h3>
-
-<p><em>Remote Full-stack web developer ready for challenges and adventures!</em></p>
+<h2>React Redux, Ruby on Rails Software Developer | Seeking Full-Time Software Engineer Job| JavaScript, React, React Redux | Microverse Grad</h2>
  
 [![Linkedin Badge](https://img.shields.io/badge/-Adam%20Chang-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adamteddychang/)](https://www.linkedin.com/in/adamteddychang/)
 [![Twitter Badge](https://img.shields.io/badge/-@AdamChang3_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/AdamChang3)](https://twitter.com/AdamChang3)
-
-[My Portfolio](https://adamteddychang.netlify.app/)
+[![](https://img.shields.io/badge/-Portfolio-brightgreen)](https://adamteddychang.netlify.app/)
 
 ### <img src="https://media.giphy.com/media/LVrHEIxyJRaq89XlwN/giphy.gif" width="80"> Here are some things about me
 
