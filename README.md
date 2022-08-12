@@ -1,7 +1,7 @@
 <h1> Hi, I'm You-Wei (Adam), Chang</h1>
 <img align='right' src="https://user-images.githubusercontent.com/63560332/139526775-c5ba01e1-6210-46af-94a7-83939c8542dc.gif" height="300">
 <h3>Welcome to my world!</h3>
-<h2>Professional Ruby on Rails Full-Stack Developer for VeryCreatives <br>
+<h2>Ruby on Rails Full-Stack Developer for VeryCreatives <br>
  Ruby on Rails, JavaScript, React Redux | Microverse Grad</h2>
  
 [![Linkedin Badge](https://img.shields.io/badge/-Adam%20Chang-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adamteddychang/)](https://www.linkedin.com/in/adamteddychang/)
