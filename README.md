@@ -26,7 +26,7 @@
 
 -  How to reach me: use the badges above 😃
 
-![adamteddychang github stats](https://github-readme-stats-lac-one-37.vercel.app/api?username=adamteddychang&show_icons=true)
+![adamteddychang github stats](https://github-readme-stats-lac-one-37.vercel.app/api?username=adamteddychang)
 
 ⭐️ From [adamteddychang](https://github.com/adamteddychang)
 
